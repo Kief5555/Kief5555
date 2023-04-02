@@ -1,7 +1,7 @@
 # Introduction
 - Hi I am Kiefer. @Kief5555
 - I am also know as PrintedWaste
-- I am mainly a nodejs developer. Sometimes I do lua.
+- I am mainly a nodejs developer.
 
 
 # What I am known for..
