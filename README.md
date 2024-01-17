@@ -5,14 +5,7 @@
 - I also do nodejs and c#
 - My website is at [printedwaste](https://printedwaste.com)
 
-
-# What I am known for..
-* I am some-what known for my Kahoot Flooder that you find [here](https://www.github.com/kief5555/kahoot-flooder)
-* File server made in nodejs [here](https://www.github.com/kief5555/File-server)
-
-# GitHub Stats 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Kief5555&show_icons=true&locale=en&theme=tokyonight" alt="Kief5555" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kief5555&theme=dark&layout=compact)](https://github.com/Kief5555)
 
 ## Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
