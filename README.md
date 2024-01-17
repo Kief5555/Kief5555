@@ -12,7 +12,7 @@
 
 # GitHub Stats 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Kief5555&show_icons=true&locale=en&theme=tokyonight" alt="Kief5555" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kief5555&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kief5555&theme=dark&layout=compact)
 
 ## Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
